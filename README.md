@@ -10,7 +10,6 @@
 - 🛠️ [Technologies](#technologies)
 - 🗂️ [Project Structure](#project-structure)
 - 💾 [Installation](#installation)
-- ⚠️ [Notes](#notes)
 - 📜 [License](#license)
 - 👨🏻‍💻 [Author](#author--acknowledgments--contact) / 🙏🏻 [Acknowledgments](#author--acknowledgments--contact) / 📩 [Contact](#author--acknowledgments--contact)
 - 💰 [If you want to support me](#if-you-want-to-support-me)
