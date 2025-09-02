@@ -10,6 +10,7 @@
 - 🛠️ [Technologies](#technologies)
 - 🗂️ [Project Structure](#project-structure)
 - 💾 [Installation](#installation)
+- 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 📜 [License](#license)
 - 👨🏻‍💻 [Author](#author--acknowledgments--contact) / 🙏🏻 [Acknowledgments](#author--acknowledgments--contact) / 📩 [Contact](#author--acknowledgments--contact)
 - 💰 [If you want to support me](#if-you-want-to-support-me)
@@ -111,7 +112,12 @@ It is designed to showcase my projects, skills, and experience in a clean and mo
 <!-- ## Notes -->
 <!-- ## Road Map -->
 <!-- ## FAQ -->
-<!-- ## Contributing -->
+
+---
+
+## Contributing
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you’d like to change.
 <!-- ## Changelog -->
 
 ---
