@@ -29,8 +29,31 @@ It is designed to showcase my projects, skills, and experience in a clean and mo
 ---
 ## Screenshots
 <p align="center">
-   <img src="screenshots/portfolio-mockup.png" width="600">
+   <img src="screenshots/webpage-portfolio-mockup.png" width="45%">
+   <img src="screenshots/webpage-more-projects-mockup.png" width="45%">
 </p>
+
+<br>
+
+<p align="center">
+   <img src="screenshots/desktop-portfolio-mockup.png" width="45%">
+   <img src="screenshots/laptop-portfolio-mockup.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+   <img src="screenshots/phone-portfolio-mockup.png" width="45%">
+   <img src="screenshots/tablet-portfolio-mockup.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+   <img src="screenshots/personal-website-portfolio-mockup.png" width="600">
+</p>
+
+<br>
 
 ---
 
@@ -70,7 +93,13 @@ It is designed to showcase my projects, skills, and experience in a clean and mo
 - │ ├── pdf/
 - │   └── ATS_CV_ANDREI_ILIESCU_EN.pdf
 - ├── screenshots
-- │   └── 
+- │   └── webpage-portfolio-mockup.png
+- │   └── webpage-more-projects-mockup.png
+- │   └── desktop-portfolio-mockup.png
+- │   └── laptop-portfolio-mockup.png
+- │   └── phone-portfolio-mockup.png
+- │   └── tablet-portfolio-mockup.png
+- │   └── personal-website-portfolio-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md # Project documentation
