@@ -91,6 +91,7 @@ It is designed to showcase my projects, skills, and experience in a clean and mo
 - │   └── previews
 - │   └── projects-mockups
 - │   └── svg
+- │   └── certificates
 - │ ├── pdf/
 - │   └── ATS_CV_ANDREI_ILIESCU_EN.pdf
 - ├── screenshots
